@@ -1,0 +1,16 @@
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\MenuSeries.exe
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\MenuSeries.deps.json
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\MenuSeries.runtimeconfig.json
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\MenuSeries.runtimeconfig.dev.json
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\MenuSeries.dll
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\ref\MenuSeries.dll
+C:\workspace\dotNetWorks\MenuSeries\bin\Debug\net5.0\MenuSeries.pdb
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.csprojAssemblyReference.cache
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.AssemblyInfoInputs.cache
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.AssemblyInfo.cs
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.csproj.CoreCompileInputs.cache
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.dll
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\ref\MenuSeries.dll
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.pdb
+C:\workspace\dotNetWorks\MenuSeries\obj\Debug\net5.0\MenuSeries.genruntimeconfig.cache
